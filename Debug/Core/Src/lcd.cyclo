@@ -1,0 +1,6 @@
+../Core/Src/lcd.c:11:6:lcd_clearScreen	1
+../Core/Src/lcd.c:18:6:lcd_instruction	1
+../Core/Src/lcd.c:23:6:lcd_Cursor	5
+../Core/Src/lcd.c:40:6:lcd_cursorpos	1
+../Core/Src/lcd.c:44:6:lcd_write_c	1
+../Core/Src/lcd.c:49:6:lcd_write_pos	5

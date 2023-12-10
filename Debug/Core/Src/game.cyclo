@@ -1,0 +1,11 @@
+../Core/Src/game.c:10:17:getInitialState	1
+../Core/Src/game.c:28:12:findMoveByAI	1
+../Core/Src/game.c:39:15:maxValue	5
+../Core/Src/game.c:67:15:minValue	5
+../Core/Src/game.c:101:8:utility	7
+../Core/Src/game.c:132:9:actionsAt	4
+../Core/Src/game.c:170:17:act	3
+../Core/Src/game.c:196:9:isTerminal	3
+../Core/Src/game.c:214:9:boardIsFull	5
+../Core/Src/game.c:236:9:boardHasSolution	18
+../Core/Src/game.c:288:9:hasWon	14
