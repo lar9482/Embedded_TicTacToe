@@ -1,7 +1,7 @@
 
-## Highlights of the source code:
+## Highlights in the source code:
 - The game logic, including a basic AI with minimax game tree search. [Here](https://github.com/lar9482/Embedded_TicTacToe/blob/main/Core/Src/game.c)
-- The main file, where execution begins. [Here](https://github.com/lar9482/Embedded_TicTacToe/blob/main/Core/Src/main.c)
+- The main file, where execution begins. [Here](https://github.com/lar9482/Embedded_TicTacToe/blob/main/Core/Src/main.c#L205)
 
 ## Demo
 - Green is a human player
